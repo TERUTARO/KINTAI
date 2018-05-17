@@ -8,6 +8,6 @@
 define("DBHOST01", 'localhost');
 define("DBNAME01", 'kintai');
 define("DBUSER01", 'root');
-define("DBUSER_PASS01", 'P@SSw0rd');
+define("DBUSER_PASS01", '******');
 
  ?>
